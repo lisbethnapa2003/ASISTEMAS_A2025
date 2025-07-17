@@ -1,3 +1,5 @@
+EXPLICACIÓN PARA QUE EL PROFESOR PUEDA VER SU CÓDIGO
+
 🔗 Enlace base del repositorio
 👉 https://github.com/fabiansmsecu/ASISTEMAS_A2025
 
