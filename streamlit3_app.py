@@ -1,4 +1,4 @@
-Dominio	Pregunta	Opciones de respuesta (1 a 5)
+
 Mejora Continua	Existe un proceso formal y documentado para identificar, registrar y priorizar oportunidades de mejora en los servicios de TI	2- Cumple parcialmente
 Mejora Continua	Se utilizan métricas y reportes de manera consistente para medir el progreso y demostrar el éxito de las iniciativas de mejora	3- Cumple en gran medida
 Mejora Continua	La cultura organizacional fomenta activamente la participación de todo el personal en las actividades de mejora continua	1- No cumple
